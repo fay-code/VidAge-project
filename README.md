@@ -1,12 +1,13 @@
 # VidAge-project
  VidAge application for videos storage
 
-# Programming languages and framework that used for this project
+# Programming languages and framework :
 - NodeJs, NextJs, typescript, React, Express, etc.
 
-# Database that used for this project : mongoDB
+# Database for this project : 
+- mongoDB
 
-# Tools that used for developing application: 
+# Tools that used for developing application : 
 - mongoDBCompass(for Database connection) 
 - Postman (for Server API configuration)
 - yarn (for downloading packages)
